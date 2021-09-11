@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&color=80857F&lines=Hi!+I'm+Franklin%2C+nice+to+meet+you+%F0%9F%98%89)](https://git.io/typing-svg)
 
 <!--
 **fventuraq/fventuraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
